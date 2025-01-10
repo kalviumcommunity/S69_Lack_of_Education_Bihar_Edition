@@ -1,0 +1,21 @@
+{
+  "name": "s69_lack_of_education_bihar_edition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S69_Lack_of_Education_Bihar_Edition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S69_Lack_of_Education_Bihar_Edition/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S69_Lack_of_Education_Bihar_Edition#readme"
+}
