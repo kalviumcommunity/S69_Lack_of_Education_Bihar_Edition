@@ -55,31 +55,10 @@ This project is focused on building the backend of an educational app. The imple
 - Setting up an Express.js server.
 - Adding a `/ping` route for testing server responses.
 - Using version control through Git and GitHub for collaborative development.
-
----
-
-## **How to Run the Application**
-
-1. Start the server:
-   ```bash
-   node server.js
-   ```
-2. Open your browser or an API testing tool (e.g., Postman).
-3. Access the `/ping` route:
-   ```text
-   http://localhost:3000/ping
-   ```
-4. You should see the response:
-   ```
-pong
-   ```
-
 ---
 ## Deployment Link
 [View the app here](https://s69-lack-of-education-bihar-edition.onrender.com)
 
 
 
-[View the app here](https://s69-lack-of-education-bihar-edition.onrender.com)
----
 [View the app here](https://s69-lack-of-education-bihar-edition.onrender.com)
