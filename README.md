@@ -60,5 +60,3 @@ This project is focused on building the backend of an educational app. The imple
 [View the app here](https://s69-lack-of-education-bihar-edition.onrender.com)
 
 
-
-[View the app here](https://s69-lack-of-education-bihar-edition.onrender.com)
