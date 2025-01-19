@@ -136,3 +136,6 @@ The branch `ping-route` has been successfully pushed to GitHub, and a Pull Reque
 ### Pull Request:
 - **Title**: Added `/ping` route to server.js
 - **Description**: Implemented
+
+## Render deployment link
+[View the app here](https://s69-lack-of-education-bihar-edition.onrender.com)
