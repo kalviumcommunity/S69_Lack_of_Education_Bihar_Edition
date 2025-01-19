@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3000;
 
 // Define the /ping route
 app.get('/ping', (req, res) => {
-    res.send('pong');
+    res.send('mai chuutiya hu');
 });
 
 // Start the server
