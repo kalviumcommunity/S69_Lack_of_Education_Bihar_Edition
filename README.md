@@ -58,59 +58,6 @@ This project is focused on building the backend of an educational app. The imple
 
 ---
 
-## **Setup Instructions**
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/devanshsingh/S69_Lack_of_Education_Bihar_Edition.git
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd S69_Lack_of_Education_Bihar_Edition
-   ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-
----
-
-## **Branch Details**
-
-### `ping-route`
-- This branch implements a basic `/ping` route in the `server.js` file.
-- The `/ping` route responds with a simple `"pong"` message to confirm the server is working.
-
----
-
-## **Ping Route Functionality**
-
-The `/ping` route is defined in `server.js` as follows:
-
-```javascript
-const express = require('express');
-const app = express();
-
-app.get('/ping', (req, res) => {
-  res.send('pong');
-});
-
-const PORT = 3000;
-app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
-});
-```
-
-### **Response**
-When the `/ping` route is accessed, the server responds with:
-```
-pong
-```
-
----
-
 ## **How to Run the Application**
 
 1. Start the server:
@@ -128,15 +75,11 @@ pong
    ```
 
 ---
-
-## **Pull Request Details**
-
-The branch `ping-route` has been successfully pushed to GitHub, and a Pull Request has been created and merged into the `main` branch. 
-
-### Pull Request:
-- **Title**: Added `/ping` route to server.js
-- **Description**: Implemented
-
----
 ## Deployment Link
+[View the app here](https://s69-lack-of-education-bihar-edition.onrender.com)
+
+
+
+[View the app here](https://s69-lack-of-education-bihar-edition.onrender.com)
+---
 [View the app here](https://s69-lack-of-education-bihar-edition.onrender.com)
