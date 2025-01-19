@@ -139,4 +139,4 @@ The branch `ping-route` has been successfully pushed to GitHub, and a Pull Reque
 
 ---
 ## Render deployment link
-[View the app here](https://s69-lack-of-education-bihar-edition.onrender.com)
+[View the app here](#https://s69-lack-of-education-bihar-edition.onrender.com)
