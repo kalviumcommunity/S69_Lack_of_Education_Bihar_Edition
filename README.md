@@ -60,3 +60,5 @@ This project is focused on building the backend of an educational app. The imple
 [View the app here](https://s69-lack-of-education-bihar-edition.onrender.com)
 
 
+## what i did in routes
+I added https methods Put, Post , Delete, Get. and tested it on BRUNO added some data in database as well.
